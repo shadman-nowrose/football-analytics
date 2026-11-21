@@ -1,1 +1,1 @@
-# football-analytics
+Football performance analysis projects using Python.
