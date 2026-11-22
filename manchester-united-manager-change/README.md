@@ -41,3 +41,9 @@ Match results and shot counts from football-data.co.uk.
 ## Status
 
 Baseline complete. Pochettino's games will be added once their data is available.
+
+## Findings so far
+
+- Across the 10 Carrick games, 43% of shots United conceded were on target, against 31% across the league. The pattern holds in 9 of the 10 games, so it isn't one bad match.
+- United's own finishing (0.26 goals per shot on target against 0.32 for the league) is lower, but with 54 shots on target the gap is within what chance could produce.
+- Tentative reading: the issue looks more like the quality of chances conceded than wasteful finishing. Shot counts can't confirm this, and xG would help.
