@@ -47,3 +47,13 @@ Baseline complete. Pochettino's games will be added once their data is available
 - Across the 10 Carrick games, 43% of shots United conceded were on target, against 31% across the league. The pattern holds in 9 of the 10 games, so it isn't one bad match.
 - United's own finishing (0.26 goals per shot on target against 0.32 for the league) is lower, but with 54 shots on target the gap is within what chance could produce.
 - Tentative reading: the issue looks more like the quality of chances conceded than wasteful finishing. Shot counts can't confirm this, and xG would help.
+
+## Benchmark: Real Madrid under Mourinho
+
+Madrid's 2026-27 season so far (13 La Liga and 4 Champions League games) sits alongside United's Carrick era (10 league and 4 Champions League games).
+
+- Against their own league averages, Madrid are better on attack (shot accuracy 0.41 vs 0.34, goals per shot on target 0.35 vs 0.31) and much lower on opponents' conversion (0.21 vs 0.31).
+- United were below average on attack and well above average on both opponent measures.
+- In the Champions League, both teams' numbers swing a lot from their league figures. With four games each, I don't read much into that.
+
+Caveats: small samples, different opposition, and league and Champions League data come from different providers. Madrid's Champions League shot ratios exclude the Inter game, whose shot figures didn't add up.
